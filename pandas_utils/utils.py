@@ -1,7 +1,9 @@
 import pandas as pd
 from typing import Tuple, List
 
-__all__ = ["groupcount_differences_between_rows"]
+__all__ = [
+    "groupcount_differences_between_rows",
+]
 
 
 def groupcount_differences_between_rows(
